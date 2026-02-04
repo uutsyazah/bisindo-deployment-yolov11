@@ -1,4 +1,4 @@
-# 🤟 BISINDO Detection
+﻿# 🤟 BISINDO Detection
 
 **Sistem Deteksi Bahasa Isyarat Indonesia Berbasis YOLO v11**
 
@@ -16,7 +16,7 @@ Proyek ini dikembangkan untuk keperluan **penelitian, demonstrasi sistem, dan tu
 
 Aplikasi versi web dapat diakses melalui:
 
-🔗 **[https://bisindo-detection.streamlit.app/](https://bisindo-detection.streamlit.app/)**
+🔗 **[https://bisindo-yolov11.streamlit.app/](https://bisindo-yolov11.streamlit.app/)**
 
 > ⚠️ **Catatan Penting:**
 > Versi online **tidak mendukung webcam realtime** karena keterbatasan lingkungan server Streamlit Cloud.
@@ -119,7 +119,7 @@ http://localhost:8501
 ```
 
 Atau gunakan versi online:
-🔗 [https://bisindo-detection.streamlit.app/](https://bisindo-detection.streamlit.app/)
+🔗 [https://bisindo-yolov11.streamlit.app/](https://bisindo-yolov11.streamlit.app/)
 
 ---
 
